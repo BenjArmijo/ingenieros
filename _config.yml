@@ -42,9 +42,9 @@ navbar-text-col: "#FFFFFF"
 navbar-children-col: "#07948f"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
-hover-col: "#0085A1"
+hover-col: "#FFFFFF"
 footer-col: "#F5F5F5"
-footer-text-col: "#FFFFFF" #  "#777777"
+footer-text-col: "##07948f" #  "#777777"
 footer-link-col: "#b8b6b6" # "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
@@ -67,13 +67,13 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
 #  rss: true
-  email: "jlmuir@stanford.edu"
-  github: jessmuir
-  twitter: jlynnmuir
-  inspire: Jessica.Muir.1
-  orcid: 0000-0002-7579-770X
+  email: "benjamin.armijo@ug.uchile.cl"
+  github: benjarmijo
+  #twitter: jlynnmuir
+  #inspire: Jessica.Muir.1
+  #orcid: 0000-0002-7579-770X
 #  reddit: yourname
-  linkedin: jlynnmuir
+  #linkedin: jlynnmuir
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -93,7 +93,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "jessiemuir.com"  # 
+#url-pretty: "jessiemuir.com"  # 
 
 # --- Web Statistics Section --- #
 
