@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Ingenieros
+title: Material suplementario
 
 # Short description of your site
-description: Personal site. 
+description:
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -50,8 +50,8 @@ footer-link-col: "#b8b6b6" # "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-navbar-img: "/img/hubble-deep-field-wallpaper.jpg"
-footer-img: "/img/hubble-deep-field-wallpaper.jpg"
+#navbar-img: "/img/hubble-deep-field-wallpaper.jpg"
+#footer-img: "/img/hubble-deep-field-wallpaper.jpg"
 # page-img: 
 
 # --- Footer options --- #
@@ -59,7 +59,7 @@ footer-img: "/img/hubble-deep-field-wallpaper.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Jessie Muir
+  name: Benjamin Armijo y Claudio Gutierrez
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
