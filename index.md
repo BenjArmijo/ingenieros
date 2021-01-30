@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Ingenieros y poder político en Chile 1810-1973 
+title: Ingenieros y poder político en Chile 1810-1973 
 subtitle: Ensayo de interpretación de la evolución de su participación parlamentaria y ministerial
 use-site-title: true
 ---
