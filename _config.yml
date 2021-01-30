@@ -20,7 +20,7 @@ description:
 
 # List of links in the navigation bar
 navbar-links:
-  Research: "data"
+  Data: "data"
   # Publications: "pubs"
   #Travel: "travel"
   Cartoons: "cartoons"	
