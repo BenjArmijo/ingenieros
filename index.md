@@ -9,5 +9,6 @@ Este trabajo de investigación busca brindar una interpretación historica a la 
 
 Creemos que es necesario poner a disposición esta información a otros investigadores. 
 
-## Articulo original: [Historia 396](http://www.historia396.cl/)
-
+---
+#### Articulo original: [Historia 396](http://www.historia396.cl/)
+---
