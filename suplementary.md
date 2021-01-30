@@ -31,7 +31,6 @@ Insertar gráficos del material suplementario
         Highcharts.chart("container1", {
             chart: {
                 type: 'column',
-                width: 400,
       },
       title: {
           text: 'Mujeres fallecidos en el 2019 según su edad'
