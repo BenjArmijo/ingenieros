@@ -27,6 +27,7 @@ Insertar gráficos del material suplementario
             <div class ="col- sm-6 col-md-6"></div>
         </div>
     </div>
+   <center> 
     <script type="text/javascript">
      Highcharts.chart("container1", {
             chart: {
@@ -92,8 +93,9 @@ Insertar gráficos del material suplementario
             color:'#e66a12',
             data: [697,74,78,161,235,276,340,491,643,955,1478,2237,2971,3799,4890,6140,7137,8533,6878,3067,718,74]
         }]
-    });
-    </script>
+        });
+        </script>
+    </center>
     </body>
 
 
