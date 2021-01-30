@@ -27,11 +27,11 @@ Insertar gráficos del material suplementario
             <div class ="col- sm-6 col-md-6"></div>
         </div>
     </div>
-     <center> 
-        <script type="text/javascript">
+    <script type="text/javascript">
         Highcharts.chart("container1", {
             chart: {
                 type: 'column',
+                width: 400,
       },
       title: {
           text: 'Mujeres fallecidos en el 2019 según su edad'
@@ -95,7 +95,6 @@ Insertar gráficos del material suplementario
         }]
         });
         </script>
-    </center>
     </body>
 
 
