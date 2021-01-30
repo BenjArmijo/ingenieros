@@ -5,7 +5,6 @@ subtitle: Ensayo de interpretación de la evolución de su participación parlam
 use-site-title: true
 ---
 
-## Material disponible
 Este trabajo de investigación busca brindar una interpretación historica a la participación politica de los ingenieros chilenos en el siglo XIX y XX. Para lograr lo anterior, se revisó el catálogo biográfico de Armando de Ramón de los integrantes del poder ejecutivo, judicial y legislativo desde los años 1876 a 1973, donde fue posible recuperar el siguiente conjunto de dato datos biográficos de estos ingenieros, su cargo politico, formación profesional, entre otros.
 
 Creemos que es necesario poner a disposición esta información a otros investigadores. 
