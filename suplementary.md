@@ -27,19 +27,19 @@ Insertar gráficos del material suplementario
             <div class ="col- sm-6 col-md-6"></div>
         </div>
     </div>
-   <center> 
-    <script type="text/javascript">
-     Highcharts.chart("container1", {
+     <center> 
+        <script type="text/javascript">
+        Highcharts.chart("container1", {
             chart: {
-            type: 'column',
-     },
-     title: {
-         text: 'Mujeres fallecidos en el 2019 según su edad'
-     },
+                type: 'column',
+      },
+      title: {
+          text: 'Mujeres fallecidos en el 2019 según su edad'
+      },
      subtitle: {
-         text: ''
-     },
-     xAxis: {
+             text: ''
+         },
+         xAxis: {
             categories: [
              '[0-4]',
              '[5-9]',
