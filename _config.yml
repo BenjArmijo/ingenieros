@@ -20,11 +20,11 @@ description:
 
 # List of links in the navigation bar
 navbar-links:
-  Data: "data"
+  Base de Datos: "data"
   # Publications: "pubs"
   #Travel: "travel"
   Material Suplementario: "suplementary"
-  Autores: "about"
+  #Autores: "about"
   #Cartoons: "cartoons"	
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -70,7 +70,7 @@ author:
 social-network-links:
 #  rss: true
   email: "benjamin.armijo@ug.uchile.cl"
-  github: benjarmijo
+  #github: benjarmijo
   #twitter: jlynnmuir
   #inspire: Jessica.Muir.1
   #orcid: 0000-0002-7579-770X
