@@ -5,7 +5,7 @@ subtitle: Ensayo de interpretación de la evolución de su participación parlam
 use-site-title: true
 ---
 
-![](/img/descarga.png "Interior del Congreso Nacional (1876 - 1973). Fotografía de Adolfo Conrads")
+![Image1](/img/descarga.png)
 
 Este trabajo de investigación busca brindar una interpretación historica a la evolución de la participación política de ingenieros en puestos claves del Estado (ministerios, parlamento, intendencias) en el Chile republicano entre 1810 y 1973. Se basa en fuentes de sesiones del Congreso, Anales del Instituto de Ingenieros, repositorio digital de CORFO, Catálogo Biográfico de Armando de Ramón y la información parlamentaria de la Biblioteca del Congreso Nacional (BCN). 
 
@@ -19,12 +19,12 @@ Se muestra cómo la participación de ingenieros en los poderes del Estado, que 
 
 A partir de la información recopilada en esta investigación, se elaboró una base de datos que contiene la información biográfica, académica y política de 186 ingenieros civiles y militares, 53 ingenieros agrónomos, 8 ingenieros comerciales y 150 médicos, los cuales participaron en puestos claves del Estado entre 1810 y 1973. 
 
-Creemos que esta información será de suma utilidad para otros investigadores que deseen profundizar las relaciones tecnocráticas de la política Chilena, el accionar de estos cuerpos profesionales en la política, o incluso, recuperar la memoría historica de los profesionales aqui presentes. 
+Creemos que esta información será de suma utilidad para otros investigadores que deseen profundizar las relaciones tecnocráticas de la política Chilena, o incluso, recuperar la memoría historica de los profesionales aqui presentes. 
 
 Finalmente, se resume la información de los ingenieros civiles y militares (los cuales analiza el articulo mencionado anteriormente). Para los ingenieros que participaron en el parlamento, se resume su periodo de actividad política e indica si tuvieron participación en Intendencias o Ministerios. Por otra parte, los Ministros de Estado se encuentran agrupados por gobierno, indicandose la cartera ministerial y su periodo en el cargo. 
 
 ---
-### Fotografía 
+##### Fotografía 
 
 *Conrads, Adolfo. Congreso Nacional, Santiago de Chile  [fotografía] Adolfo Conrads. Archivo Fotográfico. Disponible en Biblioteca Nacional Digital de Chile http://www.bibliotecanacionaldigital.gob.cl/bnd/629/w3-article-612361.html . Accedido en 2/7/2021.
 
