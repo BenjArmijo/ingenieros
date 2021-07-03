@@ -4,8 +4,6 @@ title: Base de datos
 use-site-title: true
 ---
 
-## Información de la Base de datos
-
 A partir de la información recopilada en esta investigación, se elaboró una base de datos que contiene la información de 186 ingenieros civiles y militares, 53 ingenieros agrónomos, 8 ingenieros comerciales y 150 médicos, los cuales participaron en puestos claves del Estado entre 1810 y 1973. 
 
 Para cada profesional se detalla:
@@ -17,12 +15,15 @@ Creemos que esta información será de suma utilidad para otros investigadores q
 
 #### Base de Datos V1.0: [Descargar](Data.xlsx)
 
-Finalmente, se resume la información de los ingenieros civiles y militares (los cuales analiza el articulo mencionado anteriormente). Para los ingenieros que participaron en el parlamento, se resume su periodo de actividad política e indica si tuvieron participación en Intendencias o Ministerios. Por otra parte, los Ministros de Estado se encuentran agrupados por gobierno, indicandose la cartera ministerial y su periodo en el cargo. 
+Para facilitar el estudio de la evolución política de los ingenieros civiles y militares, se elaborarón los siguientes documentos:
+
+- El archivo "Ministros de Estado" agrupa la participación ministerial por gobierno. Para cada periodo se indica el Presidente de la República, la cartera ministerial ocupada y el periodo en que ejerció dicho cargo.
+- El archivo "Parlamentarios" resume el periodo de participación política como Diputado o Senador de la República. Además, se indica si tuvo participación en Intendencias o Ministerios. 
 
 ---
-#### Tabla resumen Ministros de Estado: [Abrir PDF](TM.pdf)
+#### Ministros de Estado: [Abrir PDF](TM.pdf)
 ---
-#### Tabla resumen Parlamentarios: [Abrir PDF](TP.pdf)
+#### Parlamentarios: [Abrir PDF](TP.pdf)
 
     
       
