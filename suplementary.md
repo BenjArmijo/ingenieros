@@ -4,5 +4,6 @@ title: Material suplementario
 use-site-title: true
 ---
 
-Insertar gráficos del material suplementario
+## Proximamente
 
+En esta sección se insertarán gráficos y material complementario relevante para el ánalisis del periodo estudiado.
