@@ -5,7 +5,7 @@ subtitle: Ensayo de interpretación de la evolución de su participación parlam
 use-site-title: true
 ---
 
-<p align="center">Benjamín Armijo, Claudio Gutiérrez</p>
+<p align="center"><span style="font-family:univers; font-size:6em;">Benjamín Armijo, Claudio Gutiérrez</span></p>
 <p align="center">Escuela de Ingeniería, Universidad de Chile</p>
 
 
@@ -13,7 +13,7 @@ use-site-title: true
 
 ## Resumen 
 
-ce investigación busca brindar una interpretación historica a la participación política de ingenieros en puestos claves del Estado (ministerios, parlamento, intendencias) en el Chile republicano entre 1810 y 1973. Las principales fuentes utilizadas fueron las sesiones del Congreso Nacional, los Anales del Instituto de Ingenieros, el repositorio digital de CORFO, el Catálogo Biográfico de Armando de Ramón (4 vols) y la información parlamentaria de la Biblioteca del Congreso Nacional (BCN). 
+ce investigación busca brindar una interpretación histórica a la participación política de ingenieros en puestos claves del Estado (ministerios, parlamento, intendencias) en el Chile republicano entre 1810 y 1973. Las principales fuentes utilizadas fueron las sesiones del Congreso Nacional, los Anales del Instituto de Ingenieros, el repositorio digital de CORFO, el Catálogo Biográfico de Armando de Ramón (4 vols) y la información parlamentaria de la Biblioteca del Congreso Nacional (BCN). 
 
 En este articulo se muestra cómo evoluciona la participación de los ingenieros en los poderes del Estado, la cual comienza tempranamente y se institucionaliza hacia fines del siglo XIX. Se correlaciona con el desarrollo de la ingeniería en Chile, con la creciente “tecnificación” de la actividad parlamentaria y gubernamental y el tipo de gobierno. Este involucramiento, aunque pequeño en porcentaje y restringido a una elite, es parte del creciente poder que van tomando los ingenieros en diferentes ámbitos en el país. Las variaciones de esa participación a lo largo del período estudiado muestran diferentes formas de influencia en los asuntos de Estado, ya sea desde los poderes del Estado cuando éstos les daban confianza, o desde sus organizaciones y espacios privados de influencia en caso contrario.
 
