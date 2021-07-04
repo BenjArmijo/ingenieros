@@ -7,8 +7,8 @@ subtitle: Ensayo de interpretación de la evolución de su participación parlam
 use-site-title: true
 ---
 
-###### Autores: Benjamín Armijo, Claudio Gutiérrez
-###### Escuela de Ingeniería, Universidad de Chile
+<p align="center"><span style="font-family:futura; color=gray">Benjamín Armijo, Claudio Gutiérrez</span></p>
+<p align="center"><span style="font-family:futura; color=gray">Escuela de Ingeniería, Univerisdad de Chile</span></p>
 ---
 
 ![Image1](/img/descarga.png)
