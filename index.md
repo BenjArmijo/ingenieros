@@ -23,5 +23,5 @@ use-site-title: true
 ---
 ###### Fotografía 
 
-*Conrads, Adolfo. Congreso Nacional, Santiago de Chile  [fotografía] Adolfo Conrads. Archivo Fotográfico. Disponible en Biblioteca Nacional Digital de Chile http://www.bibliotecanacionaldigital.gob.cl/bnd/629/w3-article-612361.html . Accedido en 2/7/2021.
+*Conrads, Adolfo. Congreso Nacional, Santiago de Chile  [fotografía] Adolfo Conrads. Archivo Fotográfico. Disponible en Biblioteca Nacional Digital de Chile [http://www.bibliotecanacionaldigital.gob.cl/bnd/629/w3-article-612361.html](http://www.bibliotecanacionaldigital.gob.cl/bnd/629/w3-article-612361.html). Accedido en 2/7/2021.
 
