@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Ingenieros y poder político en Chile 1810-1973 
-subtitle: Ensayo de interpretación de la evolución de su participación parlamentaria y ministerial.
 author: "Benjamín Armijo, Claudio Gutiérrez" 
 affiliation: "Escuela de Ingeniería, Universidad de Chile"
+subtitle: Ensayo de interpretación de la evolución de su participación parlamentaria y ministerial.
 use-site-title: true
 ---
 
