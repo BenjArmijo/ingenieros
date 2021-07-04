@@ -6,6 +6,7 @@ affiliation: "Escuela de Ingeniería, Universidad de Chile"
 subtitle: Ensayo de interpretación de la evolución de su participación parlamentaria y ministerial.
 use-site-title: true
 ---
+<p align="center"><span style="font-family:futura">Benjamín Armijo, Claudio Gutiérrez</span></p>
 
 ![Image1](/img/descarga.png)
 
