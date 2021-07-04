@@ -4,9 +4,10 @@ title: Base de datos
 use-site-title: true
 ---
 
-La presente base de datos contiene información biográfica de los ingenieros y médicos que tuvieron participación en el parlamento, ministerios o intendencias del Estado Chileno entre 1810 - 1973. La información fue recopilada en base al diccionario biográfico de Ramón et. alt y las reseñas biográficas de la Biblioteca del Congreso Nacional (BCN).
+<p align="justify">La presente base de datos contiene información biográfica de los ingenieros y médicos que tuvieron participación en el parlamento, ministerios o intendencias del Estado Chileno entre 1810 - 1973. La información fue recopilada en base al diccionario biográfico de Ramón et. alt y las reseñas biográficas de la Biblioteca del Congreso Nacional (BCN).</p>
 
-Los datos se encuentran separados en las siguientes carreras profesionales: Ingenieros civiles y militares, Ingenieros agrónomos, Ingenieros comerciales y Médicos. Para cada profesional se detalla su información: 
+<p align="justify">Los datos se encuentran separados en las siguientes carreras profesionales: Ingenieros civiles y militares, Ingenieros agrónomos, Ingenieros comerciales y Médicos. Para cada profesional se detalla su información: </p>
+
 - **Biográfica:** Nombre completo, fecha y lugar de nacimiento, nombre de los progenitores y colegio donde realizó sus estudios secundarios.
 - **Profesional:** Carrera profesional, año de egreso y universidad donde realizó sus estudios.
 - **Política:** Cargo político ejercido y su respectivo periodo. Partido político en el que militaba.
@@ -21,7 +22,8 @@ Los datos se encuentran separados en las siguientes carreras profesionales: Inge
       
 4. Para algunos profesionales no fue posible encontrar toda la información biográfica, profesional o política en las fuentes consultadas. En dichos casos se deja la celda en blanco.                                                                                               
                                                                                                     
-5. Proximas versiones del documento buscarán completar la información faltante y corregir errores ortográficos o de tipeo.                                                     
+5. Proximas versiones del documento buscarán completar la información faltante y corregir errores ortográficos o de tipeo.    
+                                                 
 ---                                               
 #### Base de Datos V1.0: [Descargar](Data.xlsx)
 
