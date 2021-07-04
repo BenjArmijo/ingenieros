@@ -31,5 +31,5 @@ use-site-title: true
 #### Fuentes
 - De Ramón, Armando, Acevedo Fagalde, Ema, Valdivieso, Patricio y Branchi, Ana María, Biografías de Chilenos, 1876-1973: Miembros de los Poderes Ejecutivo, Legislativo y Judicial, Tomos I, II, III y IV. Santiago de Chile, Editorial Universidad Católica, 1999.
 
-- Biblioteca Nacional del Congreso, Historia política: Reseñas biográficas de parlamentarios. Disponible en: https://www.bcn.cl/historiapolitica/resenas_parlamentarias/index.html?categ=en_ejercicio&filtros=2
+- Biblioteca Nacional del Congreso, Historia política: Reseñas biográficas de parlamentarios. Disponible en: [https://www.bcn.cl/historiapolitica/resenas_parlamentarias/index.html?categ=en_ejercicio&filtros=2](https://www.bcn.cl/historiapolitica/resenas_parlamentarias/index.html?categ=en_ejercicio&filtros=2)
                                                                                                     
