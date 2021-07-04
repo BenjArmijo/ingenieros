@@ -7,11 +7,8 @@ subtitle: Ensayo de interpretación de la evolución de su participación parlam
 use-site-title: true
 ---
 
-[Heading](#heading)
-
-### <h3 align="center" id="heading">Heading</h3>
-###### <p align="center">Benjamín Armijo, Claudio Gutiérrez</p>
-###### <p align="center">Escuela de Ingeniería, Universidad de Chile</p>
+<p align="center"><b>Benjamín Armijo, Claudio Gutiérrez</b></p>
+<p align="center"><b>Escuela de Ingeniería, Universidad de Chile</b></p>
 ---
 
 ![Image1](/img/descarga.png)
