@@ -8,7 +8,7 @@ use-site-title: true
 ---
 
 ###### <p align="center">Benjamín Armijo, Claudio Gutiérrez</p>
-###### <p align="center">Escuela de Ingeniería, Univerisdad de Chile</p>
+###### <p align="center">Escuela de Ingeniería, Universidad de Chile</p>
 ---
 
 ![Image1](/img/descarga.png)
