@@ -4,7 +4,7 @@ title: Base de datos
 use-site-title: true
 ---
 
-<p style="text-align: center;"> La presente base de datos contiene información biográfica de los ingenieros y médicos que tuvieron participación en el parlamento, ministerios o intendencias del Estado Chileno entre 1810 - 1973. La información fue recopilada en base al diccionario biográfico de Ramón et. alt y las reseñas biográficas de la Biblioteca del Congreso Nacional (BCN).<p>
+La presente base de datos contiene información biográfica de los ingenieros y médicos que tuvieron participación en el parlamento, ministerios o intendencias del Estado Chileno entre 1810 - 1973. La información fue recopilada en base al diccionario biográfico de Ramón et. alt y las reseñas biográficas de la Biblioteca del Congreso Nacional (BCN).
 
 Los datos se encuentran separados en las siguientes carreras profesionales: Ingenieros civiles y militares, Ingenieros agrónomos, Ingenieros comerciales y Médicos. Para cada profesional se detalla su información: 
 - **Biográfica:** Nombre completo, fecha y lugar de nacimiento, nombre de los progenitores y colegio donde realizó sus estudios secundarios.
