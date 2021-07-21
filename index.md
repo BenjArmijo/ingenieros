@@ -19,6 +19,11 @@ use-site-title: true
 
 ---
 #### Articulo original: Historia 396, Vol 11, N°1 - 2021, p 37-74. [Ver articulo](http://www.historia396.cl/index.php/historia396/article/view/495)
+---
+
+#### Agradecimientos:
+
+Agradecemos a la Biblioteca Central de la Facultad de Ingeniería de la Universidad de Chile por su apoyo en la consulta de material histórico de la Facultad.
 
 ---
 ###### Fotografía 
